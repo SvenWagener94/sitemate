@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sitemate",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "551e268c-6098-4210-a7f8-906b8eeadf3f",
+			"database_name": "sitematedb"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
